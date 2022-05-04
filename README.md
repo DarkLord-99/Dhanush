@@ -42,12 +42,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
-<details><summary>Deploy To Heroku</summary>
 <p>
 ##Deploy To Heroku
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MoulikMaity/Dhanush)
 </p>
 </details>
 
