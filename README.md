@@ -3,7 +3,8 @@
 <h1 align="center">
   <b>💝 Dhanush ♥️</b>
 </h1> 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dhanush+Repo!;Created+by+Allu+Arjun!;A+simple+and+a+powerful+Bot!;Start+message+with+pic!;And+More+Awsome+Features!;Don't+Forget+To+Subcribe;Our+Channel;)
+</p>
 
 ## Features
 
