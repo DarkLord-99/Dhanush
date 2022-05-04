@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+![images](https://user-images.githubusercontent.com/104905898/166703934-d185c67f-a7c2-4350-8342-8dd77faec290.jpeg)
+
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
