@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 <p>
 ## Deploy To Heroku
-[![(Deploy To Heroku)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MoulikMaity/Dhanush)
+[![(Deploy To Heroku)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MoulikMaity/EvamariaTG)
 </p>
 </details>
 
