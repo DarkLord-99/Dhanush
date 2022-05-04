@@ -1,6 +1,4 @@
-
 ![images](https://user-images.githubusercontent.com/104905898/166703934-d185c67f-a7c2-4350-8342-8dd77faec290.jpeg)
-
 </p>
 <h1 align="center">
   <b>💝 Dhanush ♥️</b>
@@ -47,10 +45,9 @@ You can deploy this bot anywhere.
 
 <details><summary>Deploy To Heroku</summary>
 <p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+##Deploy To Heroku
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+
 </p>
 </details>
 
