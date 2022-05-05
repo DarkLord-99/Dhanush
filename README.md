@@ -5,7 +5,7 @@
 </h1> 
 
 ## Introduction 😎
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dhanush+Repo!;Created+by+Allu+Arjun!;A+simple+and+a+powerful+Bot!;Start+message+with+pic!;And+More+Awsome+Features!;Don't+Forget+To+Subcribe;Our+Channel;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dhanush+Repo!;Created+by+Darklord!;A+simple+and+a+powerful+Bot!;Start+message+with+pic!;And+More+Awsome+Features!;Don't+Forget+To+Subcribe;Our+Channel;)
 </p>
 </h2>
 
@@ -101,7 +101,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TechMasterz)
 
 ## Credits 
-* [![Dhanush-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/DhanushDevs)
+* [![Dhanush-Devs](https://img.shields.io/static/v1?label=Dhanush&message=devs&color=critical)](https://telegram.dog/DhanushDevs)
 
 
 ## Thanks to 
